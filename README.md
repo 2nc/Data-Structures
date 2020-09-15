@@ -1,2 +1,2 @@
 # Data-Structures
-cs61b class
+This is the small project, lab and homework during studying cs61b course.
